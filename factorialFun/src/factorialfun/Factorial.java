@@ -1,13 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package factorialfun;
 
 /**
- *
- * @author jonathanks
+ * Exercise 4
+ * @author Jonathan Barisere
  */
 public class Factorial {
     public Factorial(int n) {
@@ -15,10 +10,6 @@ public class Factorial {
         this.setFactorial(n);
         
     }
-    /**
-     * @param n is a natural number argument
-     * @return an integer n!
-     */
     
     private void setFactorial(int n) {
         
@@ -33,6 +24,10 @@ public class Factorial {
         this.nFactorial = nFact;
     }
     
+    /**
+     * 
+     * @return nPr
+     */
     public int getFactorial() {
         return nFactorial;
     }
