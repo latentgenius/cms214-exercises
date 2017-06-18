@@ -1,9 +1,10 @@
-package factorialfun;
-
 /**
- * Exercise 4
+ * Exercise 4c
  * @author Jonathan Barisere
  */
+
+package factorialfun;
+
 public class Permutation {
     public Permutation(int n, int r) {
         setPermutation(n, r);

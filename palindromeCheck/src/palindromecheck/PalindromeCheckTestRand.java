@@ -3,7 +3,7 @@ package palindromecheck;
 import java.util.Random;
 
 /**
- * Exercise 4
+ * Exercise 3b: Palindrome Check on Random Integers
  * @author Jonathan Barisere 
  */
 public class PalindromeCheckTestRand {

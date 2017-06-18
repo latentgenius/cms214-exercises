@@ -1,9 +1,8 @@
-package factorialfun;
-
 /**
- * Exercise 4
+ * Exercise 4b
  * @author Jonathan Barisere
  */
+package factorialfun;
 
 public class Combination {
     public Combination(int n, int r) {

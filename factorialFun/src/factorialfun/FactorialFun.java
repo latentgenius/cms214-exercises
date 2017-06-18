@@ -1,11 +1,11 @@
-package factorialfun;
-
-import java.util.Scanner;
-
 /**
  * Exercise 4 driver program
  * @author Jonathan Barisere
  */
+package factorialfun;
+
+import java.util.Scanner;
+
 public class FactorialFun {
 
     /**

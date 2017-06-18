@@ -1,14 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package baseConvert;
-
 /**
- *
+ * Exercise2: Base Ten to Other Bases Conversion
  * @author jonathanks
  */
+
+package baseConvert;
+
 public class baseTenConvert {
     
     public baseTenConvert(int baseTenNo, int otherBase) {
@@ -35,19 +31,11 @@ public class baseTenConvert {
     }
     
     public String getConvertedNumber() {
-        /**
-         * returns the converted value
-         */
         return this.convertedNumber;
     }
-    
     private void setConvertedNumber(String newValue) {
-        /**
-         * Helper method to set convertedNumber to a new value
-         */
         this.convertedNumber = newValue;
     }
-    
     private void setBaseTenNumber(int baseTenNo) {
         this.baseTenNumber = baseTenNo;
     }

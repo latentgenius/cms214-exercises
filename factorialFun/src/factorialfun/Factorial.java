@@ -1,9 +1,9 @@
-package factorialfun;
-
 /**
- * Exercise 4
+ * Exercise 4a
  * @author Jonathan Barisere
  */
+package factorialfun;
+
 public class Factorial {
     public Factorial(int n) {
         
