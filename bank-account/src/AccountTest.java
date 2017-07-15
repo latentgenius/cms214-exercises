@@ -8,7 +8,6 @@
  */
 
 import bankAccount.Account;
-// import java.util.Scanner;
 import javax.swing.JOptionPane;
 
 public class AccountTest {
