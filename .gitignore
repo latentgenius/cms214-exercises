@@ -10,3 +10,9 @@
 /fibonacci/build/
 /AnagramGame/nbproject/private/
 /AnagramGame/build/
+*.class
+/nbproject/
+/build/
+/build.xml
+/manifest.xml
+*.jar
