@@ -13,8 +13,9 @@ public class AverageDiagonal {
 
 	/**
 	 * main takes no command line arguments
+	 * @param args the command line arguments
 	 */
-	public static void main() {
+	public static void main(String[] args) {
 		Random RND = new Random();
 		Scanner kbd = new Scanner(System.in);
 		System.out.println("Row size of matrix: ");
