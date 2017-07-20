@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Created by https://www.gitignore.io/api/java
 
@@ -26,3 +27,23 @@
 hs_err_pid*
 
 # End of https://www.gitignore.io/api/java
+=======
+/exercise2/nbproject/private/
+/exercise2/build/
+/palindromeCheck/nbproject/private/
+/palindromeCheck/build/
+/factorialFun/nbproject/private/
+/factorialFun/build/
+/standardDeviation/nbproject/private/
+/standardDeviation/build/
+/fibonacci/nbproject/private/
+/fibonacci/build/
+/AnagramGame/nbproject/private/
+/AnagramGame/build/
+*.class
+/nbproject/
+/build/
+/build.xml
+/manifest.xml
+*.jar
+>>>>>>> 3413b19d69285a15eec979befac0d152ad4d68b7
